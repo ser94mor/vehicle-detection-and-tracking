@@ -5,3 +5,4 @@ non-vehicle_images/
 vehicle_images/
 scaler.pkl
 svc.pkl
+output_videos/test_video.mp4
