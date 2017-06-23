@@ -3,3 +3,5 @@ vehicles.zip
 non-vehicles.zip
 non-vehicle_images/
 vehicle_images/
+scaler.pkl
+svc.pkl
